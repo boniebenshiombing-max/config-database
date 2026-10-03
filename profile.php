@@ -26,6 +26,15 @@ require 'includes/header.php';
 
         <div class="alert alert-success">Konten institusi pada website ini bersifat simulasi untuk keperluan praktikum.</div> 
 
+        <!-- Section baru: Fokus Pembelajaran -->
+        <h2>Fokus Pembelajaran</h2> 
+
+        <ul> 
+            <li>Struktur halaman PHP dengan header dan footer bersama</li> 
+            <li>Pengelolaan data menggunakan database dan prepared statement</li> 
+            <li>Version control dengan Git menggunakan branch</li> 
+        </ul>
+
     </div> 
 
 </section>
